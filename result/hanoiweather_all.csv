@@ -12605,3 +12605,67 @@ timestamp,weather_icon,wind_speed,humidity,temperature,location
 2025-04-30T19:36:27+07:00,partly-cloudy-day,9.5 km/h,85%,77°,Phú Xuyên
 2025-04-30T19:36:32+07:00,partly-cloudy-day,9.3 km/h,83%,79°,Vân Đình
 2025-04-30T19:37:11+07:00,rain,10.0 km/h,81%,84°,Cầu Diễn
+2025-04-30T20:20:15+07:00,rain,7.4 km/h,78%,82°,Phường Phú Thượng
+2025-04-30T20:20:20+07:00,rain,7.4 km/h,78%,82°,"IQAir UNIS, Phuong Phu Thuong"
+2025-04-30T20:20:25+07:00,rain,9.7 km/h,82%,81°,Hà Nội
+2025-04-30T20:20:30+07:00,partly-cloudy-day,10.5 km/h,90%,79°,"Minh Khai - Bắc Từ Liêm, Hà Nội"
+2025-04-30T20:20:35+07:00,partly-cloudy-day,9.8 km/h,90%,79°,"Hà Nội: Chi cục BVMT (KK), Hà Nội"
+2025-04-30T20:20:39+07:00,rain,9.7 km/h,82%,82°,"Toa nha Charmvit, 117 D, Hà Nội"
+2025-04-30T20:20:44+07:00,rain,7.4 km/h,78%,82°,"Academy Rd, Hà Nội"
+2025-04-30T20:20:49+07:00,rain,9.7 km/h,81%,82°,"UDS Pharma - SmartCity, Hà Nội"
+2025-04-30T20:20:54+07:00,rain,9.8 km/h,83%,81°,"Mipec Long Bien, Hà Nội"
+2025-04-30T20:20:59+07:00,rain,7.4 km/h,78%,82°,"Hoangquocviet, Hà Nội"
+2025-04-30T20:21:04+07:00,rain,7.4 km/h,78%,82°,"Khu do thi Ciputra, Hà Nội"
+2025-04-30T20:21:08+07:00,rain,9.8 km/h,84%,82°,"UDS Pharmacy - OceanPark1, Văn Giang"
+2025-04-30T20:21:13+07:00,rain,9.8 km/h,84%,82°,"Cu Khoi, Long Bien, Hà Nội"
+2025-04-30T20:21:18+07:00,rain,7.4 km/h,78%,82°,"LFAY - French School, Hà Nội"
+2025-04-30T20:21:23+07:00,rain,9.7 km/h,83%,82°,"Linh Dam - ThucPham.com - Vi Ngon Thuong Hang, Hà Nội"
+2025-04-30T20:22:01+07:00,rain,9.8 km/h,84%,82°,"Vinhome riverside, HP7"
+2025-04-30T20:22:05+07:00,rain,9.7 km/h,82%,82°,SmartOSC
+2025-04-30T20:22:10+07:00,rain,7.4 km/h,78%,82°,Tu Hoa str.
+2025-04-30T20:22:15+07:00,rain,9.7 km/h,83%,82°,Vinh Tuy - ThucPham.com - Vi Ngon Thuong Hang
+2025-04-30T20:22:20+07:00,rain,9.7 km/h,82%,82°,Le Duan - Hoan Kiem
+2025-04-30T20:22:25+07:00,rain,7.4 km/h,78%,82°,To Ngoc Van Tay Ho
+2025-04-30T20:22:29+07:00,rain,9.7 km/h,83%,82°,Vivigo.vn
+2025-04-30T20:22:34+07:00,rain,9.7 km/h,82%,82°,Me Tri - May Lam Da Hai Au - Hai Au Group
+2025-04-30T20:22:39+07:00,rain,7.4 km/h,78%,81°,Dang Tay Ho
+2025-04-30T20:22:44+07:00,rain,7.4 km/h,78%,82°,Ciputra E5
+2025-04-30T20:22:49+07:00,rain,7.4 km/h,78%,82°,"Quang Khanh, Tay Ho"
+2025-04-30T20:22:53+07:00,rain,7.4 km/h,78%,81°,IQAir Ha Noi
+2025-04-30T20:22:58+07:00,rain,9.5 km/h,82%,82°,Hà Đông
+2025-04-30T20:23:03+07:00,rain,9.5 km/h,82%,82°,ISPH School
+2025-04-30T20:23:08+07:00,rain,9.2 km/h,82%,79°,KV - DAI HOC DAI NAM
+2025-04-30T20:23:31+07:00,rain,7.6 km/h,82%,79°,Dong Truc
+2025-04-30T20:23:36+07:00,rain,9.8 km/h,83%,82°,Hoàn Kiếm
+2025-04-30T20:23:40+07:00,rain,9.8 km/h,83%,81°,Tran Hung Dao
+2025-04-30T20:23:45+07:00,rain,7.4 km/h,78%,82°,Tây Hồ
+2025-04-30T20:23:50+07:00,rain,7.4 km/h,78%,82°,65/50 Dang Thai Mai
+2025-04-30T20:23:55+07:00,rain,7.4 km/h,78%,82°,26 Quang Khanh
+2025-04-30T20:24:00+07:00,rain,7.4 km/h,78%,82°,B5 - Admin
+2025-04-30T20:24:04+07:00,rain,7.4 km/h,78%,82°,B8 Library & Canteen
+2025-04-30T20:24:09+07:00,rain,7.4 km/h,78%,82°,B6 - Admin
+2025-04-30T20:24:14+07:00,rain,9.7 km/h,82%,81°,KT Home Sun S2A
+2025-04-30T20:24:19+07:00,rain,7.4 km/h,78%,82°,P2 Ciputra Hanoi
+2025-04-30T20:24:23+07:00,rain,7.4 km/h,78%,82°,P01 Ciputra
+2025-04-30T20:24:28+07:00,rain,9.7 km/h,83%,82°,Hai Ba Trung 
+2025-04-30T20:24:33+07:00,rain,10.3 km/h,86%,75°,Hà Nội: TT giao lưu văn hóa phố cổ - Hoàn Kiếm - Trạm cảm biến(KK)
+2025-04-30T20:24:38+07:00,rain,9.7 km/h,83%,82°,Hà Nội: Đại Học Bách Khoa cổng Parabol đường Giải Phóng (KK)
+2025-04-30T20:25:16+07:00,rain,9.7 km/h,82%,82°,Cầu Giấy
+2025-04-30T20:25:21+07:00,rain,7.4 km/h,78%,82°,Đông Anh
+2025-04-30T20:25:26+07:00,rain,10.1 km/h,81%,81°,Phùng
+2025-04-30T20:25:31+07:00,rain,7.4 km/h,78%,82°,Trôi
+2025-04-30T20:25:35+07:00,rain,9.7 km/h,82%,81°,Đống Đa
+2025-04-30T20:25:40+07:00,partly-cloudy-day,7.4 km/h,78%,82°,Mê Linh
+2025-04-30T20:25:45+07:00,rain,9.0 km/h,81%,79°,Quốc Oai
+2025-04-30T20:25:49+07:00,rain,7.4 km/h,78%,81°,Sóc Sơn
+2025-04-30T20:25:54+07:00,rain,9.8 km/h,84%,82°,Trâu Quỳ
+2025-04-30T20:25:59+07:00,rain,9.2 km/h,81%,82°,Liên Quan
+2025-04-30T20:26:03+07:00,rain,9.5 km/h,84%,79°,Văn Điển
+2025-04-30T20:26:08+07:00,rain,8.4 km/h,82%,79°,Chúc Sơn
+2025-04-30T20:26:15+07:00,rain,9.2 km/h,81%,79°,Phúc Thọ
+2025-04-30T20:26:19+07:00,rain,8.2 km/h,84%,79°,Kim Bài
+2025-04-30T20:26:24+07:00,rain,8.9 km/h,81%,79°,Son Tay
+2025-04-30T20:26:27+07:00,rain,9.0 km/h,84%,79°,Thường Tín
+2025-04-30T20:27:03+07:00,partly-cloudy-day,8.0 km/h,82%,79°,Tây Dằng
+2025-04-30T20:27:08+07:00,partly-cloudy-day,6.8 km/h,87%,77°,Đại Nghĩa
+2025-04-30T20:27:13+07:00,rain,9.8 km/h,81%,82°,Cầu Diễn
