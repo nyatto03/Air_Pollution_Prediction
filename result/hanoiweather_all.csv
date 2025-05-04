@@ -18674,3 +18674,70 @@ timestamp,weather_icon,wind_speed,humidity,temperature,location
 2025-05-04T20:23:12+07:00,ic-w-11-night-few-clouds-full.svg,11.4 km/h,85%,81°,Vân Đình
 2025-05-04T20:23:17+07:00,partly-cloudy-day,20.9 km/h,86%,81°,Tây Dằng
 2025-05-04T20:23:23+07:00,ic-w-11-night-few-clouds-full.svg,10.8 km/h,85%,81°,Đại Nghĩa
+2025-05-04T21:07:05+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,Phường Phú Thượng
+2025-05-04T21:07:10+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,"IQAir UNIS, Phuong Phu Thuong"
+2025-05-04T21:07:15+07:00,partly-cloudy-day,19.6 km/h,86%,77°,Hà Nội
+2025-05-04T21:07:20+07:00,partly-cloudy-day,2.7 km/h,89%,73°,"Minh Khai - Bắc Từ Liêm, Hà Nội"
+2025-05-04T21:07:25+07:00,partly-cloudy-day,19.8 km/h,85%,79°,"Hà Nội: Chi cục BVMT (KK), Hà Nội"
+2025-05-04T21:07:29+07:00,partly-cloudy-day,19.8 km/h,85%,79°,"Toa nha Charmvit, 117 D, Hà Nội"
+2025-05-04T21:07:34+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,"Academy Rd, Hà Nội"
+2025-05-04T21:07:38+07:00,partly-cloudy-day,20.3 km/h,85%,79°,"UDS Pharma - SmartCity, Hà Nội"
+2025-05-04T21:07:46+07:00,partly-cloudy-day,19.2 km/h,87%,77°,"Mipec Long Bien, Hà Nội"
+2025-05-04T21:07:51+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,"Hoangquocviet, Hà Nội"
+2025-05-04T21:07:56+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,"Khu do thi Ciputra, Hà Nội"
+2025-05-04T21:08:01+07:00,rain,17.2 km/h,88%,79°,"UDS Pharmacy - OceanPark1, Văn Giang"
+2025-05-04T21:08:06+07:00,partly-cloudy-day,17.9 km/h,87%,79°,"Cu Khoi, Long Bien, Hà Nội"
+2025-05-04T21:08:10+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,"LFAY - French School, Hà Nội"
+2025-05-04T21:08:15+07:00,partly-cloudy-day,18.8 km/h,86%,79°,"Linh Dam - ThucPham.com - Vi Ngon Thuong Hang, Hà Nội"
+2025-05-04T21:08:20+07:00,partly-cloudy-day,18.7 km/h,86%,77°,Pho Lo Duc 2
+2025-05-04T21:08:25+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,Quang Ba-86TNV
+2025-05-04T21:08:29+07:00,partly-cloudy-day,17.9 km/h,88%,79°,"Vinhome riverside, HP7"
+2025-05-04T21:08:34+07:00,partly-cloudy-day,19.8 km/h,85%,79°,SmartOSC
+2025-05-04T21:08:39+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,Tu Hoa str.
+2025-05-04T21:09:01+07:00,partly-cloudy-day,19.6 km/h,86%,79°,Le Duan - Hoan Kiem
+2025-05-04T21:09:06+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,To Ngoc Van Tay Ho
+2025-05-04T21:09:11+07:00,partly-cloudy-day,19.3 km/h,86%,79°,Vivigo.vn
+2025-05-04T21:09:16+07:00,partly-cloudy-day,19.8 km/h,85%,79°,Me Tri - May Lam Da Hai Au - Hai Au Group
+2025-05-04T21:09:20+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,77°,Dang Tay Ho
+2025-05-04T21:09:25+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,Ciputra E5
+2025-05-04T21:09:30+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,"Quang Khanh, Tay Ho"
+2025-05-04T21:09:35+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,77°,IQAir Ha Noi
+2025-05-04T21:09:39+07:00,partly-cloudy-day,20.0 km/h,85%,79°,Hà Đông
+2025-05-04T21:09:44+07:00,partly-cloudy-day,20.0 km/h,85%,79°,ISPH School
+2025-05-04T21:09:49+07:00,partly-cloudy-day,19.5 km/h,85%,81°,KV - DAI HOC DAI NAM
+2025-05-04T21:09:54+07:00,partly-cloudy-day,15.0 km/h,90%,79°,Thach That
+2025-05-04T21:09:58+07:00,partly-cloudy-day,15.8 km/h,89%,79°,Dong Truc
+2025-05-04T21:10:03+07:00,partly-cloudy-day,18.5 km/h,87%,79°,Hoàn Kiếm
+2025-05-04T21:10:08+07:00,partly-cloudy-day,19.2 km/h,87%,77°,Tran Hung Dao
+2025-05-04T21:10:30+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,65/50 Dang Thai Mai
+2025-05-04T21:10:35+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,26 Quang Khanh
+2025-05-04T21:10:39+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,B5 - Admin
+2025-05-04T21:10:44+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,B8 Library & Canteen
+2025-05-04T21:10:49+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,B6 - Admin
+2025-05-04T21:10:54+07:00,partly-cloudy-day,19.6 km/h,86%,77°,KT Home Sun S2A
+2025-05-04T21:10:58+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,P2 Ciputra Hanoi
+2025-05-04T21:11:03+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,P01 Ciputra
+2025-05-04T21:11:08+07:00,partly-cloudy-day,18.7 km/h,86%,79°,Hai Ba Trung 
+2025-05-04T21:11:13+07:00,partly-cloudy-day,19.2 km/h,87%,77°,Hà Nội: TT giao lưu văn hóa phố cổ - Hoàn Kiếm - Trạm cảm biến(KK)
+2025-05-04T21:11:17+07:00,partly-cloudy-day,19.3 km/h,86%,79°,Hà Nội: Đại Học Bách Khoa cổng Parabol đường Giải Phóng (KK)
+2025-05-04T21:11:22+07:00,partly-cloudy-day,19.8 km/h,85%,79°,Thanh Xuân
+2025-05-04T21:11:27+07:00,partly-cloudy-day,19.8 km/h,85%,79°,Hà Nội: Công viên hồ điều hòa Nhân Chính  Khuất Duy Tiến (KK)
+2025-05-04T21:11:32+07:00,partly-cloudy-day,20.0 km/h,86%,79°,Cầu Giấy
+2025-05-04T21:11:37+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,Đông Anh
+2025-05-04T21:11:42+07:00,partly-cloudy-day,19.8 km/h,88%,77°,Phùng
+2025-05-04T21:12:17+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,79°,Mê Linh
+2025-05-04T21:12:22+07:00,partly-cloudy-day,18.5 km/h,87%,79°,Quốc Oai
+2025-05-04T21:12:27+07:00,ic-w-10-night-clear-sky-full.svg,11.1 km/h,89%,77°,Sóc Sơn
+2025-05-04T21:12:32+07:00,partly-cloudy-day,17.2 km/h,88%,79°,Trâu Quỳ
+2025-05-04T21:12:37+07:00,partly-cloudy-day,17.4 km/h,89%,79°,Liên Quan
+2025-05-04T21:12:43+07:00,partly-cloudy-day,17.4 km/h,86%,81°,Văn Điển
+2025-05-04T21:12:48+07:00,partly-cloudy-day,18.5 km/h,86%,81°,Chúc Sơn
+2025-05-04T21:12:53+07:00,partly-cloudy-day,17.1 km/h,90%,79°,Phúc Thọ
+2025-05-04T21:12:58+07:00,rain,16.9 km/h,86%,79°,Kim Bài
+2025-05-04T21:13:02+07:00,partly-cloudy-day,17.1 km/h,90%,79°,Son Tay
+2025-05-04T21:13:07+07:00,partly-cloudy-day,15.9 km/h,87%,81°,Thường Tín
+2025-05-04T21:13:12+07:00,partly-cloudy-day,11.6 km/h,89%,79°,Phú Xuyên
+2025-05-04T21:13:17+07:00,rain,12.6 km/h,88%,79°,Vân Đình
+2025-05-04T21:13:22+07:00,partly-cloudy-day,17.1 km/h,90%,79°,Tây Dằng
+2025-05-04T21:13:26+07:00,ic-w-11-night-few-clouds-full.svg,11.6 km/h,88%,79°,Đại Nghĩa
+2025-05-04T21:13:31+07:00,partly-cloudy-day,20.4 km/h,85%,79°,Cầu Diễn
