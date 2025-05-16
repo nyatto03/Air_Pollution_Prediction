@@ -37277,3 +37277,69 @@ timestamp,weather_icon,wind_speed,humidity,temperature,location
 2025-05-17T02:13:00+07:00,rain,8.9 km/h,94%,75°,Phú Xuyên
 2025-05-17T02:13:05+07:00,rain,6.4 km/h,96%,75°,Vân Đình
 2025-05-17T02:13:10+07:00,rain,5.1 km/h,97%,75°,Tây Dằng
+2025-05-17T03:09:36+07:00,rain,7.6 km/h,96%,75°,Phường Phú Thượng
+2025-05-17T03:09:40+07:00,rain,7.6 km/h,96%,75°,"IQAir UNIS, Phuong Phu Thuong"
+2025-05-17T03:09:45+07:00,rain,8.0 km/h,96%,75°,Hà Nội
+2025-05-17T03:09:50+07:00,rain,5.5 km/h,96%,75°,"Minh Khai - Bắc Từ Liêm, Hà Nội"
+2025-05-17T03:09:55+07:00,rain,7.9 km/h,96%,75°,"Hà Nội: Chi cục BVMT (KK), Hà Nội"
+2025-05-17T03:10:00+07:00,ic-w-11-night-few-clouds-full.svg,13.2 km/h,71%,72°,"Toa nha Charmvit, 117 D, Hà Nội"
+2025-05-17T03:10:05+07:00,rain,7.6 km/h,96%,75°,"Academy Rd, Hà Nội"
+2025-05-17T03:10:10+07:00,rain,5.5 km/h,96%,75°,"UDS Pharma - SmartCity, Hà Nội"
+2025-05-17T03:10:15+07:00,rain,8.4 km/h,96%,75°,"Mipec Long Bien, Hà Nội"
+2025-05-17T03:10:20+07:00,rain,7.6 km/h,96%,75°,"Hoangquocviet, Hà Nội"
+2025-05-17T03:10:25+07:00,rain,7.6 km/h,96%,75°,"Khu do thi Ciputra, Hà Nội"
+2025-05-17T03:10:30+07:00,rain,8.9 km/h,96%,75°,"UDS Pharmacy - OceanPark1, Văn Giang"
+2025-05-17T03:10:34+07:00,rain,8.7 km/h,96%,75°,"Cu Khoi, Long Bien, Hà Nội"
+2025-05-17T03:10:39+07:00,rain,8.2 km/h,96%,75°,"LFAY - French School, Hà Nội"
+2025-05-17T03:10:44+07:00,rain,8.4 km/h,96%,75°,"Linh Dam - ThucPham.com - Vi Ngon Thuong Hang, Hà Nội"
+2025-05-17T03:10:51+07:00,rain,8.5 km/h,96%,75°,Pho Lo Duc 2
+2025-05-17T03:10:56+07:00,rain,7.9 km/h,95%,75°,Quang Ba-86TNV
+2025-05-17T03:11:00+07:00,rain,8.4 km/h,94%,77°,"Vinhome riverside, HP7"
+2025-05-17T03:11:04+07:00,rain,7.9 km/h,96%,75°,SmartOSC
+2025-05-17T03:11:09+07:00,rain,7.9 km/h,95%,75°,Tu Hoa str.
+2025-05-17T03:11:13+07:00,rain,8.5 km/h,96%,75°,Vinh Tuy - ThucPham.com - Vi Ngon Thuong Hang
+2025-05-17T03:11:18+07:00,rain,8.0 km/h,96%,75°,Le Duan - Hoan Kiem
+2025-05-17T03:11:22+07:00,rain,7.9 km/h,95%,75°,To Ngoc Van Tay Ho
+2025-05-17T03:11:26+07:00,rain,8.2 km/h,96%,75°,Vivigo.vn
+2025-05-17T03:11:31+07:00,rain,7.9 km/h,96%,75°,Me Tri - May Lam Da Hai Au - Hai Au Group
+2025-05-17T03:11:43+07:00,rain,7.9 km/h,96%,75°,Dang Tay Ho
+2025-05-17T03:12:03+07:00,rain,7.9 km/h,96%,75°,"Quang Khanh, Tay Ho"
+2025-05-17T03:12:07+07:00,rain,7.9 km/h,96%,75°,IQAir Ha Noi
+2025-05-17T03:12:12+07:00,rain,6.4 km/h,96%,75°,Hà Đông
+2025-05-17T03:12:16+07:00,rain,6.4 km/h,96%,75°,ISPH School
+2025-05-17T03:12:20+07:00,rain,6.6 km/h,96%,75°,KV - DAI HOC DAI NAM
+2025-05-17T03:12:25+07:00,rain,1.4 km/h,98%,75°,Thach That
+2025-05-17T03:12:29+07:00,rain,0.6 km/h,97%,75°,Dong Truc
+2025-05-17T03:12:34+07:00,rain,8.5 km/h,96%,75°,Hoàn Kiếm
+2025-05-17T03:12:38+07:00,rain,8.4 km/h,96%,75°,Tran Hung Dao
+2025-05-17T03:12:42+07:00,rain,7.6 km/h,96%,75°,Tây Hồ
+2025-05-17T03:12:46+07:00,rain,7.9 km/h,96%,75°,65/50 Dang Thai Mai
+2025-05-17T03:12:51+07:00,rain,7.9 km/h,96%,75°,26 Quang Khanh
+2025-05-17T03:12:55+07:00,rain,7.6 km/h,96%,75°,B5 - Admin
+2025-05-17T03:12:59+07:00,rain,7.6 km/h,96%,75°,B8 Library & Canteen
+2025-05-17T03:13:04+07:00,rain,7.6 km/h,96%,75°,B6 - Admin
+2025-05-17T03:13:08+07:00,rain,8.0 km/h,96%,75°,KT Home Sun S2A
+2025-05-17T03:13:46+07:00,rain,8.5 km/h,96%,75°,Hai Ba Trung 
+2025-05-17T03:13:50+07:00,rain,8.4 km/h,96%,75°,Hà Nội: TT giao lưu văn hóa phố cổ - Hoàn Kiếm - Trạm cảm biến(KK)
+2025-05-17T03:13:58+07:00,rain,8.2 km/h,96%,75°,Hà Nội: Đại Học Bách Khoa cổng Parabol đường Giải Phóng (KK)
+2025-05-17T03:14:03+07:00,rain,7.9 km/h,96%,75°,Thanh Xuân
+2025-05-17T03:14:07+07:00,rain,7.9 km/h,96%,75°,Hà Nội: Công viên hồ điều hòa Nhân Chính  Khuất Duy Tiến (KK)
+2025-05-17T03:14:11+07:00,rain,7.6 km/h,96%,75°,Cầu Giấy
+2025-05-17T03:14:15+07:00,rain,7.9 km/h,96%,75°,Đông Anh
+2025-05-17T03:14:20+07:00,rain,4.5 km/h,97%,75°,Phùng
+2025-05-17T03:14:24+07:00,rain,4.8 km/h,96%,75°,Trôi
+2025-05-17T03:14:28+07:00,rain,8.0 km/h,96%,75°,Đống Đa
+2025-05-17T03:14:33+07:00,rain,7.6 km/h,97%,75°,Mê Linh
+2025-05-17T03:14:37+07:00,rain,1.8 km/h,97%,75°,Quốc Oai
+2025-05-17T03:14:41+07:00,rain,8.2 km/h,97%,75°,Sóc Sơn
+2025-05-17T03:14:45+07:00,rain,8.9 km/h,96%,75°,Trâu Quỳ
+2025-05-17T03:14:50+07:00,rain,1.8 km/h,98%,75°,Liên Quan
+2025-05-17T03:14:55+07:00,rain,8.9 km/h,96%,75°,Văn Điển
+2025-05-17T03:14:57+07:00,rain,4.5 km/h,96%,75°,Chúc Sơn
+2025-05-17T03:15:32+07:00,rain,2.9 km/h,98%,75°,Son Tay
+2025-05-17T03:15:37+07:00,rain,8.7 km/h,96%,75°,Thường Tín
+2025-05-17T03:15:42+07:00,rain,7.9 km/h,96%,75°,Phú Xuyên
+2025-05-17T03:15:47+07:00,rain,6.8 km/h,96%,75°,Vân Đình
+2025-05-17T03:15:52+07:00,rain,3.7 km/h,98%,75°,Tây Dằng
+2025-05-17T03:15:56+07:00,rain,6.1 km/h,96%,75°,Đại Nghĩa
+2025-05-17T03:16:02+07:00,rain,6.4 km/h,96%,75°,Cầu Diễn
